@@ -2,6 +2,8 @@
 CV stworzone w HTML i CSS
 (https://cvkarolinaras.netlify.app/)
 
+
+
 <!DOCTYPE html>
 <html>
     <head><Title>Karolina Raś CV</Title>
