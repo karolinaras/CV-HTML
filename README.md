@@ -47,7 +47,6 @@ CV stworzone w HTML i CSS
                 <ul><li>Uczestnictwo w wolontaryjnym projekcie ODESSA testerskim organizowanym przez Cherry-IT od marca 2022 do dziś</li></ul>
                 <ul><li>Uczestnictwo w projekcie nauki COLT dla juniorów testerów i tworzenia portfolio 
                     organizowanego  przez Cherry-IT od czerwca</li></ul>
-                
                 <ul><li>Wiedza z zakresu ISTQB Foundation Level</li></ul>
                 <ul><li>Portfolio <a href="https://github.com/karolinaras">GITHub-KarolinaRaś</a></li></ul>
                 <ul><li>Podstawowa znajomość HTML i CSS - Karolina Raś CV</li></ul>
