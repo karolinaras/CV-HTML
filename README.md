@@ -32,10 +32,10 @@ CV stworzone w HTML i CSS
             kwestia bezpieczeństwa i uważam, że sprawdzę się jako tester bezpieczeństwa, gdyż socjotechniki stosowane przez przestępców wywodzą
              się z psychologii, która jest moją drugą miłością.
               </p>
-            </section>
-                <h2>DOŚWIADCZENIE TESTERSKIE</h2>
-                <ul><li>Ukończone szkolenie Akademia Testowania w TestArmy Group Testuj.pl-06.05-15.05.2022. Szkolenie obejmowało:</li></ul>
-                    <ul>Naukę raportowania błędów, tworzenie przypadków testowych</ul>
+       </section>
+         <h2>DOŚWIADCZENIE TESTERSKIE</h2>
+         <ul><li>Ukończone szkolenie Akademia Testowania w TestArmy Group Testuj.pl-06.05-15.05.2022. Szkolenie obejmowało:</li></ul>
+          <ul>Naukę raportowania błędów, tworzenie przypadków testowych</ul>
                     <ul>Konsultacje HR</ul>
                     <ul>Podstawy pracy w Scrum</ul>
                     <ul>Testowanie w cyklu życia oprogramowania</ul>
@@ -54,23 +54,18 @@ CV stworzone w HTML i CSS
                 <ul><li>Znajomość programów: JIRA, TESTLINK, DEVTOOLS</li></ul>
                 <ul><li>Obecnie testuję strony internetowe  pod względem dostępności</li></ul>
                 <ul>
-                    <li>Słucham kanał na YT Kacpra Szurka na temat testowania bezpieczeństwa</li>
-                </ul>
+                  <li>Słucham kanał na YT Kacpra Szurka na temat testowania bezpieczeństwa</li></ul>
             </section>
             <section>
                <h2>UMIEJĘTNOŚCI</h2>
                 <ul>Szybkość przyswajania nowej wiedzy</ul>
                 <ul>Doświadczenie pracy z klientem i w grupie</ul>
                 <ul>Samodzielność i odpowiedzialność</ul>
-                <ul>Jestem osobą, która woli rozwiązywać problemy a nie szukać winnego</ul>
-                
-            </section>
-        
-            <section>
-               <H2>JĘZYK ANGIELSKI</H2>
-                <ul>
-                 Poziom B2 - średniozaawansowany
-                </ul>
+              <ul>Jestem osobą, która woli rozwiązywać problemy a nie szukać winnego</ul>
+    </section>
+    <section>
+        <H2>JĘZYK ANGIELSKI</H2>
+          <ul> Poziom B2 - średniozaawansowany </ul>
             </section>
 <section>
 <h2>ZAINTERESOWANIA</h2>
