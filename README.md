@@ -6,40 +6,28 @@ CV stworzone w HTML i CSS
 
 <!DOCTYPE html>
 <html>
-    <head><Title>Karolina Raś CV</Title>
-   <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <div class="container"/>
-        <header>
-     
-         <div>
-            <h1>Karolina Raś</h1>
-            <span>Software Tester</span>
-        </div>
-        <address>
-            <ul>
-                
-                <li>
-                  <b>E-mail</b>: karolinaras1988@gmail.com
-                </li>
-               
-                <li>
-                    <b>Miejsce zamieszkania</b>: Wrocław
-                </li>
-                <li>
-                   <b>Linkedin</b>: 
-                    <a href=" www.linkedin.com/in/karolina-raś-5372b0180">Karolina Raś</a>
-                </li>
-            </ul>
-        </address>
-        </header>
-        <main>
-            <section>
-              <h2>O MNIE</h2>
+  <head><Title>Karolina Raś CV</Title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <div class="container"/>
+  <header><div>
+    <h1>Karolina Raś</h1>
+    <span>Software Tester</span>
+    </div>
+    <address><ul><li><b>E-mail</b>: karolinaras1988@gmail.com</li>
+    <li><b>Miejsce zamieszkania</b>: Wrocław</li>
+    <li> <b>Linkedin</b>: <a href=" www.linkedin.com/in/karolina-raś-5372b0180">Karolina Raś</a></li>
+    </ul>
+    </address>
+    </header>
+     <main>
+      <section>
+        <h2>O MNIE</h2>
               <p>
             W domu jestem mistrzem w znajdowaniu zgubionych rzeczy, dlatego dociekliwość i spostrzegawczość doprowadziła mnie do tego, 
-            że od kilku miesięcy intensywnie uczę się sama podstaw testowania oprogramowania. Obecie szlifuję podstawowe umiejętności zdobyte na szkoleniu Akademi Testowania a w 
+            że od kilku miesięcy intensywnie uczę się sama podstaw testowania oprogramowania. Obecie szlifuję podstawowe umiejętności zdobyte 
+            na szkoleniu Akademi Testowania a w 
             przyszłości chciałabym zostać pentesterem a nawet uczyć dzieci i młodzież bezpiecznej obsługi internetu. Wiem jak ważna jest 
             kwestia bezpieczeństwa i uważam, że sprawdzę się jako tester bezpieczeństwa, gdyż socjotechniki stosowane przez przestępców wywodzą
              się z psychologii, która jest moją drugą miłością.
