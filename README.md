@@ -10,7 +10,7 @@ CV stworzone w HTML i CSS
     <body>
         <div class="container"/>
         <header>
-         <img src="fotoCVKARO.png"/>
+     
          <div>
             <h1>Karolina Raś</h1>
             <span>Software Tester</span>
